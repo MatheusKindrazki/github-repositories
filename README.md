@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to Github Explorer | Typescript 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/MatheusKindrazki" target="_blank">
-    <img alt="Twitter: MatheusKindrazki" src="https://img.shields.io/twitter/follow/MatheusKindrazki.svg?style=social" />
+  <a href="https://twitter.com/MKindrazki" target="_blank">
+    <img alt="Twitter: MKindrazki" src="https://img.shields.io/twitter/follow/MKindrazki.svg?style=social" />
   </a>
 </p>
 
